@@ -1,16 +1,16 @@
-### Hi there 👋
+## Leandro Souza
+### Hello, Devs!!
 
-<!--
-**leandrosouza13/leandrosouza13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como freelancer em HTML, CSS, desenvolvendo algumas páginas Web.
+- 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
+- 🤔 Estou procurando ajuda sobre como conseguir a primeira oportunidade como DEV.
+- 💬 Pergunte-me sobre questões que me façam pensar, pois se eu não souber a resposta irei procurar até conseguir.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias em desenvolvimento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+                    
