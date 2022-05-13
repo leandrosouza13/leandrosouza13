@@ -1,7 +1,7 @@
 ## Leandro Souza
 ### Hello, Devs!!
 
-- 🔭 Atualmente estou trabalhando como freelancer em HTML, CSS, desenvolvendo algumas páginas Web.
+- 🔭 Atualmente estou trabalhando como freelancer utilizando principalmente HTML e CSS para desenvolver páginas Web.
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Python.
 - 🤔 Estou procurando ajuda sobre como conseguir a primeira oportunidade como DEV.
 - 💬 Pergunte-me sobre questões que me façam pensar, pois se eu não souber a resposta irei procurar até conseguir.
